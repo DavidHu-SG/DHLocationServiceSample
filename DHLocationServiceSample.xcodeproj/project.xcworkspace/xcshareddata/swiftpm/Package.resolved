@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "dhlocationservice",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DavidHu-SG/DHLocationService.git",
+      "state" : {
+        "revision" : "ce243809ac93e48d08dba1776c88a984826f3dbb",
+        "version" : "0.1.3"
+      }
+    }
+  ],
+  "version" : 2
+}
